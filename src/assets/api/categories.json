@@ -1,0 +1,134 @@
+[
+  {
+    "slug": "fragrances",
+    "name": "Fragrances",
+    "url": "https://dummyjson.com/products/category/fragrances",
+    "image": "public/perfume.jpeg"
+  },
+  {
+    "slug": "furniture",
+    "name": "Furniture",
+    "url": "https://dummyjson.com/products/category/furniture",
+    "image": "public/funiure.jpeg"
+  },
+  {
+    "slug": "home-decoration",
+    "name": "Home Decoration",
+    "url": "https://dummyjson.com/products/category/home-decoration",
+    "image": "public/homedecoration.jpg"
+  },
+  {
+    "slug": "kitchen-accessories",
+    "name": "Kitchen Accessories",
+    "url": "https://dummyjson.com/products/category/kitchen-accessories",
+    "image": "public/kitchen.jpeg"
+  },
+  {
+    "slug": "laptops",
+    "name": "Laptops",
+    "url": "https://dummyjson.com/products/category/laptops",
+    "image": "public/labtop.jpeg"
+  },
+  {
+    "slug": "mens-shirts",
+    "name": "Mens Shirts",
+    "url": "https://dummyjson.com/products/category/mens-shirts",
+    "image": "public/menshirt.jpeg"
+  },
+  {
+    "slug": "mens-shoes",
+    "name": "Mens Shoes",
+    "url": "https://dummyjson.com/products/category/mens-shoes",
+    "image": "public/menshoes.jpeg"
+  },
+  {
+    "slug": "mens-watches",
+    "name": "Mens Watches",
+    "url": "https://dummyjson.com/products/category/mens-watches",
+    "image": "public/menwatch.jpeg"
+  },
+  {
+    "slug": "mobile-accessories",
+    "name": "Mobile Accessories",
+    "url": "https://dummyjson.com/products/category/mobile-accessories",
+    "image": "public/mobile-accessories.jpeg"
+  },
+  {
+    "slug": "motorcycle",
+    "name": "Motorcycle",
+    "url": "https://dummyjson.com/products/category/motorcycle",
+    "image": "public/motorcycle.jpg"
+  },
+  {
+    "slug": "skin-care",
+    "name": "Skin Care",
+    "url": "https://dummyjson.com/products/category/skin-care",
+    "image": "public/skincare.jpeg"
+  },
+  {
+    "slug": "smartphones",
+    "name": "Smartphones",
+    "url": "https://dummyjson.com/products/category/smartphones",
+    "image": "public/moblie.jpeg"
+  },
+  {
+    "slug": "sports-accessories",
+    "name": "Sports Accessories",
+    "url": "https://dummyjson.com/products/category/sports-accessories",
+    "image": "public/sports.jpeg"
+  },
+  {
+    "slug": "sunglasses",
+    "name": "Sunglasses",
+    "url": "https://dummyjson.com/products/category/sunglasses",
+    "image": "public/sun glass.jpg"
+  },
+  {
+    "slug": "tablets",
+    "name": "Tablets",
+    "url": "https://dummyjson.com/products/category/tablets",
+    "image": "public/tablet.jpeg"
+  },
+  {
+    "slug": "tops",
+    "name": "Tops",
+    "url": "https://dummyjson.com/products/category/tops",
+    "image": "public/tops.jpg"
+  },
+  {
+    "slug": "vehicle",
+    "name": "Vehicle",
+    "url": "https://dummyjson.com/products/category/vehicle",
+    "image": "public/vechile.jpeg"
+  },
+  {
+    "slug": "womens-bags",
+    "name": "Womens Bags",
+    "url": "https://dummyjson.com/products/category/womens-bags",
+    "image": "public/parse.jpeg"
+  },
+  {
+    "slug": "womens-dresses",
+    "name": "Womens Dresses",
+    "url": "https://dummyjson.com/products/category/womens-dresses",
+    "image": "public/womenClothes.jpg"
+  },
+  {
+    "slug": "womens-jewellery",
+    "name": "Womens Jewellery",
+    "url": "https://dummyjson.com/products/category/womens-jewellery",
+    "image": "public/women jewelly.jpg"
+  },
+  {
+    "slug": "womens-shoes",
+    "name": "Womens Shoes",
+    "url": "https://dummyjson.com/products/category/womens-shoes",
+    "image": "public/womenshoes.jpeg"
+  },
+  {
+    "slug": "womens-watches",
+    "name": "Womens Watches",
+    "url": "https://dummyjson.com/products/category/womens-watches",
+    "image": "public/womenwatch.jpg"
+  }
+]
