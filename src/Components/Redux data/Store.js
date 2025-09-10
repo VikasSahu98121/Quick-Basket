@@ -7,6 +7,6 @@ export const store = configureStore({
   reducer: {
     products: Productlist.reducer,
     cart: CartSlice.reducer,
-    auth: authReducer, // <--- yaha add kar diya
+    auth: authReducer, 
   },
 });
